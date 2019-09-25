@@ -1,0 +1,4 @@
+﻿*Hacer prueba de Binding entre xaml y el viewModel
+*Montar metodos del formulario 
+*Investigar | para filtro del formulario
+*Separar las clases de la base de datos y separar proyecto
